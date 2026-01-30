@@ -163,3 +163,9 @@ name = "Tu Nombre Aquí"  # Línea 25
 ---
 
 ⭐ **¡No olvides dar una estrella si te fue útil!** ⭐
+
+## Ejecucion uv con Streamlit
+
+```bash
+uv run streamlit run main_streamlit.py
+```
